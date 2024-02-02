@@ -19,5 +19,5 @@ IP67 Rated Enclosure
 7:   Blue:    Power+
 8:   Red:     Power-
 
-Datasheet:   https://drive.google.com/open?id=1rN9qEevYFLZLv58RbRT6NWmvO1Ep6v0l&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1gFjimNz8zJOzohPjqdd5nlL-9-gl9bsn&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ec-m11-eg-c5-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ec-m11-eg-c5-user-guide/
